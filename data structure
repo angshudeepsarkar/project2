@@ -1,0 +1,8 @@
+l=["tom","haley","susan","trevor"]
+l1=["michael","artyom","anna"]
+print(l1+l)
+k=("McTavish","logan","ghost")
+print(k[2])
+d={"Yvonne":21,"Isobel":5}
+del d["Isobel"]
+print(d)
